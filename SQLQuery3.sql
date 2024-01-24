@@ -30,7 +30,6 @@
 --prezime varchar (50),
 --email varchar (100),
 --oib char (11),
-evo ovo
 --brojugovora varchar (10),
 --);
 
